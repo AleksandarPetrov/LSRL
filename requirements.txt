@@ -1,0 +1,11 @@
+numpy~=1.26
+matplotlib
+scipy~=1.13
+sympy~=1.12
+networkx~=3.3
+tqdm
+parameterized
+pyinstrument
+seaborn
+pandas
+joblib
