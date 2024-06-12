@@ -26,7 +26,8 @@ For more advanced use, see the `continous_universal_approximation.ipynb` and `di
 @article{petrov2024universal,
   title={Universal In-Context Approximation By Prompting Fully Recurrent Models},
   author={Aleksandar Petrov and Tom A. Lamb and Alasdair Paren and Philip H.S. Torr and Adel Bibi},
-  journal={arXiv preprint arXiv:24XX:XXXX},
+  journal={arXiv preprint arXiv:2406.01424},
+  url={https://arxiv.org/abs/2406.01424},
   year={2024}
 }
 ```
