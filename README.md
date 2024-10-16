@@ -5,7 +5,7 @@
 This repository contains the implementation of LSRL (Linear State Recurrent Language), a programming language for recurrent models.
 LSRL is designed as a tool to implement exact algorithms in recurrent neural network architectures such as RNNs, LSTMs, GRUs, Mamba, Griffin/Hawk and more.
 The original motivation for developing LSRL was to develop a tool to construct universal in-context approximation programs that can be represented in recurrent architectures.
-See the accompanying paper for further details.
+See the [accompanying paper](https://arxiv.org/abs/2406.01424) for further details.
 
 ## Features
 
@@ -23,10 +23,10 @@ For more advanced use, see the `continous_universal_approximation.ipynb` and `di
 ## Cite as
 
 ```
-@article{petrov2024universal,
+@inproceedings{petrov2024universal,
   title={Universal In-Context Approximation By Prompting Fully Recurrent Models},
   author={Aleksandar Petrov and Tom A. Lamb and Alasdair Paren and Philip H.S. Torr and Adel Bibi},
-  journal={arXiv preprint arXiv:2406.01424},
+  booktitle={Advances in Neural Information Processing Systems},
   url={https://arxiv.org/abs/2406.01424},
   year={2024}
 }
